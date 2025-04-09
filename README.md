@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -230,12 +230,6 @@
     </style>
 </head>
 <body>
-    <header>
-        <div class="container">
-            <h1>Web Tools</h1>
-            <p>Your Ultimate Collection of Free Online Calculators & Utilities</p>
-        </div>
-    </header>
     <div class="container">
         <section class="intro">
             <h2>Welcome to Web Tools</h2>
